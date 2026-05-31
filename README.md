@@ -35,11 +35,16 @@ LLM-powered documentation synchronization tool that automatically keeps document
 ### Photonics Sensor Designs
 Simulation and analysis of optical ring resonator sensor systems.
 
-## GitHub Stats
+### Tech Stack:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayasada&show_icons=true)
+                              
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayasada&layout=compact)
+### GitHub Stats:
+
+
+
+###Top Contributed Repo
+
 
 ## Contact
 
