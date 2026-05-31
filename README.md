@@ -29,9 +29,6 @@ Git, GitHub, VS Code, Canva, Adobe Illustrator
 
 ## Projects
 
-### Auto Doc Updater
-LLM-powered documentation synchronization tool that automatically keeps documentation updated with code changes.
-
 ### Photonics Sensor Designs
 Simulation and analysis of optical ring resonator sensor systems.
 
