@@ -4,7 +4,7 @@ AI & Machine Learning Engineering Student passionate about building practical AI
 
 ## About Me
 
-- Currently learning Deep Learning, Quantam Computing, and Cryptograghy. 
+- Currently learning Deep Learning, Quantam Computing, and System Design. 
 - Interested in AI, Machine Learning, and Software Development
 - Open to collaborating on innovative projects
 - Enjoy participating in hackathons and technical events
