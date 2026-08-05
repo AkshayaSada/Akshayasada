@@ -26,6 +26,6 @@ AI & Machine Learning Engineering Student passionate about building practical AI
 
 ## Contact
 
-Email: thecreativeakshaya@gmail.com
+Email: sadasivanakshaya@gmail.com
 
 LinkedIn: linkedin.com/in/akshaya-sadasivan
