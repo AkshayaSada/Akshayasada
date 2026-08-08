@@ -6,7 +6,6 @@ AI & Machine Learning Engineering Student passionate about building practical AI
 
 - Currently learning Deep Learning, Quantam Computing, and System Design. 
 - Interested in AI, Machine Learning, and Quantum Physics.
-- Open to collaborating on innovative projects
 - Enjoy participating in hackathons and technical events
 - Always looking for opportunities to learn and grow
 
